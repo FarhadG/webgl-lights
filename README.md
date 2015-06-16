@@ -1,8 +1,26 @@
-WebGL Lights
-============
+#WebGL Lights
+> Basic lights using the Phong reflection model in WebGL with phong shading
 
-Basic lights using the Phong reflection model in WebGL with phong shading.
+---
 
-### Usage
+###Demo
 
-Serve or open up `index.html`
+Here's a simple <a href="###" target="_blank">DEMO</a> showcasing an implementation of WebGL shadows using an off screen frame buffer with bit shifted depth values.
+
+Go ahead and give it a try: <a href="###" target="_blank">WebGL Lights</a>
+
+---
+
+###Installation
+
+```bash
+git clone https://github.com/FarhadG/webgl-lights.git
+cd webgl-lights
+```
+`Open` or `serve` up the `index.html` file. All of the logic happens inside of `main.js`.
+
+---
+
+###LICENSE
+
+MIT

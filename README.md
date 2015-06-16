@@ -5,9 +5,9 @@
 
 ###Demo
 
-Here's a simple <a href="###" target="_blank">DEMO</a> showcasing an implementation of WebGL shadows using an off screen frame buffer with bit shifted depth values.
+Here's a simple <a href="http://farhadg.github.io/webgl-lights/" target="_blank">DEMO</a> showcasing an implementation of WebGL shadows using an off screen frame buffer with bit shifted depth values.
 
-Go ahead and give it a try: <a href="###" target="_blank">WebGL Lights</a>
+Go ahead and give it a try: <a href="http://farhadg.github.io/webgl-lights/" target="_blank">WebGL Lights</a>
 
 ---
 
